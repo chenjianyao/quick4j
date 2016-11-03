@@ -54,3 +54,7 @@
 > Licensed under the MIT license.  
 
 > Welcome to stars, forks, create new pull request.
+
+## 升级记录20161103：
+> jar包升级,使用io.spring.platform来管理项目依赖
+
